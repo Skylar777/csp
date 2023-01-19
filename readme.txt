@@ -1,0 +1,1 @@
+The program is in java. It takes the zebra problem disguised as a bike-riding puzzle from the website https://www.brainzilla.com/logic/zebra/bike-riding/ as input and formulates the problem as a CSP then outputs the solution to the puzzle.
